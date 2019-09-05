@@ -1,0 +1,17 @@
+{
+  "name": "MyBlog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:walefe/MyBlog.git",
+  "author": "Walefe <walefedev@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gatsby": "^2.15.8",
+    "gatsby-plugin-catch-links": "^2.1.8",
+    "gatsby-source-filesystem": "^2.1.21",
+    "gatsby-transformer-remark": "^2.6.21",
+    "lodash": "^4.17.15",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  }
+}
